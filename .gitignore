@@ -2,8 +2,6 @@ __history/
 Win32/
 
 *.dcu
-*.exe
-*.dll
 *.local
 *.identcache
 *.dsk
